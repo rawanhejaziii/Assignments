@@ -1,0 +1,14 @@
+C:\Users\RORO\Downloads\Session01\Session01\Demo\bin\Debug\net8.0\Demo.exe
+C:\Users\RORO\Downloads\Session01\Session01\Demo\bin\Debug\net8.0\Demo.deps.json
+C:\Users\RORO\Downloads\Session01\Session01\Demo\bin\Debug\net8.0\Demo.runtimeconfig.json
+C:\Users\RORO\Downloads\Session01\Session01\Demo\bin\Debug\net8.0\Demo.dll
+C:\Users\RORO\Downloads\Session01\Session01\Demo\bin\Debug\net8.0\Demo.pdb
+C:\Users\RORO\Downloads\Session01\Session01\Demo\obj\Debug\net8.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RORO\Downloads\Session01\Session01\Demo\obj\Debug\net8.0\Demo.AssemblyInfoInputs.cache
+C:\Users\RORO\Downloads\Session01\Session01\Demo\obj\Debug\net8.0\Demo.AssemblyInfo.cs
+C:\Users\RORO\Downloads\Session01\Session01\Demo\obj\Debug\net8.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\RORO\Downloads\Session01\Session01\Demo\obj\Debug\net8.0\Demo.dll
+C:\Users\RORO\Downloads\Session01\Session01\Demo\obj\Debug\net8.0\refint\Demo.dll
+C:\Users\RORO\Downloads\Session01\Session01\Demo\obj\Debug\net8.0\Demo.pdb
+C:\Users\RORO\Downloads\Session01\Session01\Demo\obj\Debug\net8.0\Demo.genruntimeconfig.cache
+C:\Users\RORO\Downloads\Session01\Session01\Demo\obj\Debug\net8.0\ref\Demo.dll
